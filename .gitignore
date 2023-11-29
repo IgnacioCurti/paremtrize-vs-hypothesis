@@ -1,0 +1,5 @@
+parametrize
+.pytest_cache
+.hypothesis
+__pycache__
+venv
